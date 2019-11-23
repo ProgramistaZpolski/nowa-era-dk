@@ -6,3 +6,5 @@ Skopiuj program z nowej ery do katalogu app
 Podręcznik do informatyki klasa 1  
 **Pobierz**  
 [Pobieranie](https://github.com/ProgramistaZpolski/nowa-era-dk/releases)
+**Przykłady działania**
+![Menu Główne](nagithuba.png)
