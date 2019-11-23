@@ -8,3 +8,6 @@ Podręcznik do informatyki klasa 1
 [Pobieranie](https://github.com/ProgramistaZpolski/nowa-era-dk/releases)
 **Przykłady działania**
 ![Menu Główne](nagithuba.PNG)
+![Ekran Ładowania](nagithuba2.PNG)
+![Zmienianie filmów](nagithuba3.PNG)
+![Zmienianie minigier](nagithuba4.PNG)
